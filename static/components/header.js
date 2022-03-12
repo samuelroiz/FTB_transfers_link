@@ -23,7 +23,7 @@ class Header extends HTMLElement {
             </li>
             <li class="nav-item">
                 <a 
-                style="color:white" class="nav-link" href="https://samuelroiz.github.io/FTB_transfers_link/">Transfers</a>
+                style="color:white" class="nav-link" href="https://samuelroiz.github.io/FTB_transfers/">Transfers</a>
             </li>
             <li class="nav-item">
               <a style="color:white" class="nav-link" href="https://samuelroiz.github.io/FTB_league/">League</a>
